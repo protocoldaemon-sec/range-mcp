@@ -52,4 +52,8 @@ ehthumbs.db
 Thumbs.db
 
 # Railway
-.railway/.kiro/
+.railway/
+
+# Kiro
+.kiro/
+endpoint.md
